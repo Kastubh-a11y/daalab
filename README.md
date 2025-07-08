@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Experiments-1%2F12-orange.svg" />
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/your-username/daa-lab-c" />
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Views&color=blueviolet&style=flat" alt="Profile view count" />
+  <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/ppslab" />
 </p>
 
 ---
