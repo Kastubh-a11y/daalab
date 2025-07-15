@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Experiments-1%2F12-orange.svg" />
+  <img src="https://img.shields.io/badge/Experiments-2%2F12-orange.svg" />
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/your-username/daa-lab-c" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/ppslab" />
