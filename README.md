@@ -28,7 +28,7 @@ This repository contains C implementations of standard **DAA lab experiments** w
 | No. | Experiment Title           | Status     |
 |-----|----------------------------|------------|
 | 1   | Linear Search              | ✅ Done     |
-| 2   | Binary Search              | 🔄 Pending  |
+| 2   | Binary Search              | ✅ Done     |
 | 3   | Quick Sort                 | 🔄 Pending  |
 | 4   | Merge Sort                 | 🔄 Pending  |
 | 5   | Prims Algo                 | 🔄 Pending  |
