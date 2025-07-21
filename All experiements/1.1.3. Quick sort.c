@@ -20,6 +20,9 @@ Pass:·8·9·10·⏎
 Pass:·8·9·⏎	
 Sorted·array:·1·5·7·8·9·10·⏎*/
 
+
+//quickSort.c
+
 #include <stdio.h>
 void swap(int* a, int* b) {
     int t = *a;
