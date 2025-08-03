@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/progress.svg" alt="Progress" />
+  <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/progress.svg" alt="Progress" />
 </p>
 ---
 
