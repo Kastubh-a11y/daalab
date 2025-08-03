@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
 </p>
 <p align="center">
-  <img src="https://api.starprogram.dev/svg/progress?label=DAA+Progress&value=50&total=100&color=FF6C6C&duration=1" />
+  <img src="https://api.starprogram.dev/svg/progress?label=DAA+Progress&value=6&total=12&color=FF6C6C&duration=1" />
+
 
 </p>
 ---
