@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-9cf" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms%20%26%20Optimization-blueviolet" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kastubh-a11y&show_icons=true&theme=tokyonight&hide_title=true" />
+
 
 
 </p>
