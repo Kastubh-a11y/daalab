@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kastubh-a11y&show_icons=true&theme=tokyonight&hide_title=true" />
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kastubh-a11y&theme=dracula" />
 
 
 
@@ -29,7 +30,9 @@ This repository contains C implementations of standard **DAA lab experiments** w
 - Engineering students
 - Lab preparation
 - Algorithmic practice in C
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kastubh-a11y&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
 ---
 
 ## 🧪 Experiments Plan
