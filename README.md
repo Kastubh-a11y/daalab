@@ -11,9 +11,8 @@
 </p>
 <p align="center">
   <img src="https://api.starprogram.dev/svg/progress?label=DAA+Progress&value=6&total=12&color=FF6C6C&duration=1" />
-
-
 </p>
+
 ---
 
 ## 🧠 Design and Analysis of Algorithms Lab (DAA)
