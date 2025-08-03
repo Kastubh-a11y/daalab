@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kastubh-a11y&theme=dracula" />
 
 
 
@@ -17,9 +16,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/All experiements/progress.svg" alt="Progress bar" />
-</p>
-<p align="center">
-  <img src="https://your-hosted-banner.com/daa-banner.png" alt="DAA Lab Banner" />
 </p>
 
 
