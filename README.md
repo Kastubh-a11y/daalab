@@ -18,6 +18,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/All experiements/progress.svg" alt="Progress bar" />
 </p>
+<p align="center">
+  <img src="https://your-hosted-banner.com/daa-banner.png" alt="DAA Lab Banner" />
+</p>
 
 
 ---
