@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Experiments-4%2F12-orange.svg" />
+  <img src="https://img.shields.io/badge/Experiments-6%2F12-orange.svg" />
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
@@ -31,8 +31,8 @@ This repository contains C implementations of standard **DAA lab experiments** w
 | 2   | Binary Search              | ✅ Done     |
 | 3   | Quick Sort                 | ✅ Done     |
 | 4   | Merge Sort                 | ✅ Done     |
-| 5   | Prims Algo                 | 🔄 Pending  |
-| 6   | kruskals Algo              | 🔄 Pending  |
+| 5   | Prims Algo                 | ✅ Done     |
+| 6   | kruskals Algo              | ✅ Done     |
 | 7   | Dijkstra’s Algorithm       | 🔄 Pending  |
 | 8   | Knapsack Problem           | 🔄 Pending  |
 | 9   | Fractional Knapsack        | 🔄 Pending  |
