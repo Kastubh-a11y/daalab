@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
-  <img src="https://progress-bar.dev/50/?title=Progress&width=300&color=ff6c6c" />
 </p>
 
 ---
