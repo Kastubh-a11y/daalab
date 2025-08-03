@@ -9,7 +9,9 @@
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/progress.svg" alt="Progress" />
+</p>
 ---
 
 ## 🧠 Design and Analysis of Algorithms Lab (DAA)
