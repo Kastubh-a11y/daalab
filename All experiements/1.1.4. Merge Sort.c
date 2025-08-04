@@ -39,7 +39,7 @@ void printPass(int arr[], int start, int end) {
     for (int i = start; i <= end; i++) {
         printf(" %d", arr[i]);
     }
-    printf("\n");
+    printf(" \n");
 }
 
 void merge(int arr[], int l, int m, int r) {
