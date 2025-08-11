@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Experiments-6%2F12-orange.svg" />
+  <img src="https://img.shields.io/badge/Experiments-7%2F12-orange.svg" />
   <img src="https://img.shields.io/badge/Status-Ongoing-yellow.svg" />
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
@@ -14,6 +14,9 @@
 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/All experiements/progress.svg" alt="Progress bar" />
+</p>
 
 
 ---
