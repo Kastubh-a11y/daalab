@@ -46,7 +46,7 @@ This repository contains C implementations of standard **DAA lab experiments** w
 | 4   | Merge Sort                 | ✅ Done     |
 | 5   | Prims Algo                 | ✅ Done     |
 | 6   | kruskals Algo              | ✅ Done     |
-| 7   | Dijkstra’s Algorithm       | 🔄 Pending  |
+| 7   | Dijkstra’s Algorithm       | ✅ Done     |
 | 8   | Knapsack Problem           | 🔄 Pending  |
 | 9   | Fractional Knapsack        | 🔄 Pending  |
 | 10  | Floyd - Warshall's         | 🔄 Pending  |
