@@ -161,3 +161,21 @@ int main() {
 	}
 	for(i = 1; i <= E; i++) {
 		printf("Enter source : ");
+		scanf("%d", &s);
+		printf("Enter destination : ");
+		scanf("%d", &d);
+		printf("Enter weight : ");
+		scanf("%d", &w);
+		if(s > V || d > V || s <= 0 || d <= 0) {
+			printf("Invalid index. Try again.\n");
+			i--;
+			continue;
+		} else {
+			graph[s][d] = w;
+		}
+	}
+	printf("Enter the source :");
+	scanf("%d", &s);
+	dijkstra(graph, V, s); 
+	return 0; 
+} 
