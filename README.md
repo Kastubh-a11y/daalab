@@ -48,8 +48,8 @@ This repository contains C implementations of standard **DAA lab experiments** w
 | 6   | kruskals Algo              | ✅ Done     |
 | 7   | Dijkstra’s Algorithm       | ✅ Done     |
 | 8   | Knapsack Problem           | ✅ Done     |
-| 9   | Fractional Knapsack        | 🔄 Pending  |
-| 10  | Floyd - Warshall's         | 🔄 Pending  |
+| 9   | Fractional Knapsack        | ✅ Done     |
+| 10  | Floyd - Warshall's         | ✅ Done     |
 | 11  | Optimal Merge Patter       | 🔄 Pending  |
 | 12  | N Queens Problem           | 🔄 Pending  |
 
