@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/All experiements/progress.svg" alt="Progress bar" />
+</p>
 
 
 ---
@@ -23,7 +26,9 @@ This repository contains C implementations of standard **DAA lab experiments** w
 - Algorithmic practice in C
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kastubh-a11y&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kastubh-a11y&theme=tokyonight" />
+
+
 </p>
 
 ---
