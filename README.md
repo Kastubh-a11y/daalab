@@ -47,7 +47,7 @@ This repository contains C implementations of standard **DAA lab experiments** w
 | 8   | Knapsack Problem           | ✅ Done     |
 | 9   | Fractional Knapsack        | ✅ Done     |
 | 10  | Floyd - Warshall's         | ✅ Done     |
-| 11  | Optimal Merge Patter       | 🔄 Pending  |
+| 11  | Optimal Merge Patter       | ✅ Done     |
 | 12  | N Queens Problem           | 🔄 Pending  |
 
 ---
