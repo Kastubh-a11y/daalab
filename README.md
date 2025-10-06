@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/daalab" />
   <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/daalab" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kastubh-a11y/daalab/main/All experiements/progress.svg" alt="Progress bar" />
-</p>
 
 
 ---
